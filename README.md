@@ -1,11 +1,12 @@
-# Jehan Yang Professional/Public Site
+# Jehan Yang Personal/Professional Site
 
-This site uses the Lanyon template, but is modified to have a card-based portfolio.
+This site uses the Lanyon template and is modified to have a card-based portfolio, a sleek *About* page, and a *Blog* page that is not on the homepage.
 
 ## Contents
 
 - [Author](#author)
 - [License](#license)
+
 
 ## Author
 
